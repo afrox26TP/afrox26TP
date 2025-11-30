@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Afrox26TP</h1>
 <h3 align="center">A Student Learning about Programming</h3>
 
-- 🌱 I’m currently learning **C, Javascript**
+- 🌱 I’m currently learning **C, Javascript, python**
 
 - 📫 How to reach me **discord: afrox26TPV2**
 
